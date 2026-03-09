@@ -35,8 +35,8 @@ A Vendor Inventory Dashboard built with React.js, enabling vendors to manage the
 
 ## Styling
 
-- Clean UI implemented with **Tailwind CSS** (or your chosen styling method).  
-- Responsive table/grid for better mobile and desktop experience.  
+- Clean UI implemented with **Tailwind CSS**.  
+- Responsive table for better desktop experience.  
 
 ## Notes
 
