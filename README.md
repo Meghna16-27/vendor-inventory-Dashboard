@@ -31,3 +31,14 @@ A Vendor Inventory Dashboard built with React.js, enabling vendors to manage the
 4. <u>Delete (Remove Product)</u>  
    - Each product row has a **Remove** button.  
    - Deletes the item from both **UI** and **localStorage/database**.
+
+
+## Styling
+
+- Clean UI implemented with **Tailwind CSS** (or your chosen styling method).  
+- Responsive table/grid for better mobile and desktop experience.  
+
+## Notes
+
+- **Price** and **Stock** are validated to ensure positive numbers only.  
+- **Category** field uses a dropdown for consistency.  
