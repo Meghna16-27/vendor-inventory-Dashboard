@@ -4,10 +4,10 @@ A Vendor Inventory Dashboard built with React.js, enabling vendors to manage the
 
 ## **Tech Stack**
 
-Frontend: React.js
-State Management: React Hooks (useState, useEffect)
-Storage: NoSQL database (MongoDB)
-Styling: Tailwind CSS / CSS Modules /Bootstrap
+- **Frontend:** React.js  
+- **State Management:** React Hooks (`useState`, `useEffect`)  
+- **Storage:** NoSQL database (MongoDB)  
+- **Styling:** Tailwind CSS / CSS Modules / Bootstrap
 
 ## **Features**
 
