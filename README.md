@@ -22,7 +22,7 @@ A Vendor Inventory Dashboard built with React.js, enabling vendors to manage the
 
 2. <u>Read (Inventory Display)</u>  
    - Display all saved products in a **table or grid view**.  
-   - Data persists on page refresh using **localStorage** or a database.  
+   - Data persists on page refresh using **localStorage** or a **database**.  
 
 3. <u>Update (Inline Edit)</u>  
    - Each product row has an **Edit** button.  
